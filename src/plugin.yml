@@ -1,0 +1,8 @@
+main: com.tistory.hornslied.evitaonline.limit.EvitaLimitMain
+name: EvitaLimit
+version: 1.0
+author: Ludwig Hornslied
+depend: [EvitaCore]
+commands:
+  limit:
+    aliases: [제한]
